@@ -40,4 +40,4 @@ En cas de violation, les organisateurs prendront toutes les mesures qu'ils jugen
 
 ## A propos
 
-Ce code de conduite est issue du [code de conduite de la communauté de développeurs slack](https://api.slack.com/docs/community-code-of-conduct), comporte des parties dérivées du [Code de conduite de Django](https://www.djangoproject.com/conduct/), du Code de conduite des citoyens, du Code de conduite de Rust et de l'Initiative Ada sous licence Creative Commons Attribution-ShareAlike.
+Ce code de conduite est issue du [code de conduite de la communauté de développeurs slack](https://api.slack.com/docs/community-code-of-conduct), comporte des parties dérivées du [Code de conduite de Django](https://www.djangoproject.com/conduct/), du [Citizen code of conduct](http://citizencodeofconduct.org/), du [Code de conduite de Rust](https://www.rust-lang.org/fr-FR/conduct.html) et de l'Initiative Ada sous licence Creative Commons Attribution-ShareAlike.
