@@ -34,7 +34,10 @@ Ce code et les procédures connexes s'appliquent également aux comportements in
 
 Un comportement inacceptable ne sera pas toléré.
 
-Si vous êtes l'objet ou le témoin d'une violation de ce Code de Conduite, veuillez nous contacter en soumettant une issue ici ou en contactant un(e) des admins du slack
+Si vous êtes l'objet ou le témoin d'une violation de ce Code de Conduite, veuillez nous contacter en soumettant une issue ici ou en contactant un(e) des admins du slack :
+
+ - Julien Bouquillon : @revolunet
+ - Vladimir de Turckheim : @vdeturckheim
 
 En cas de violation, les organisateurs prendront toutes les mesures qu'ils jugent appropriées pour sanctionner l'infraction, jusqu'à et y compris l'expulsion.
 
