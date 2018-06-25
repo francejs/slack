@@ -8,7 +8,7 @@ La diversité et l'inclusion font la force de notre communauté.
 
 Nous encourageons la participation de tous et toutes et souhaitons être très clairs sur notre position.
 
-Notre objectif est de maintenir une communauté sûre, utile et amicale pour tous, sans distinction de genre, d'orientation sexuelle, de handicap, d'apparence personnelle, de taille corporelle, de race, d'origine ethnique, d'âge, de religion ou de nationalité.
+Notre objectif est de maintenir une communauté sûre, utile et amicale pour tous, sans distinction de genre, d'orientation sexuelle, de handicap, d'apparence personnelle, de taille corporelle, d'origine ethnique, d'âge, de religion ou de nationalité.
 
 Ce code et les procédures connexes s'appliquent également aux comportements inacceptables se produisant en dehors des activités communautaires, dans tous les lieux communautaires - en ligne et en personne - ainsi que dans toutes les communications individuelles, et partout où un tel comportement a le potentiel de nuire à la sécurité et au bien-être des membres de la communauté.
 
